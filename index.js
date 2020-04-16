@@ -31,4 +31,4 @@ const botInit = () => {
     );
 }
 
-setInterval(botInit, 7200); 
+setInterval(botInit, 7200000); 
